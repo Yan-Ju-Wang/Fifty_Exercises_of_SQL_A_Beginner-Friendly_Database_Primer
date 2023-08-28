@@ -1,0 +1,2 @@
+# Fifty_Plus_Exercises_of_SQL_A_Beginner-Friendly_Database_Primer
+HAHOW 課程
